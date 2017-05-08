@@ -59,7 +59,7 @@ List of company registries globally
 [Malaysia](https://www.ssm-einfo.my/)
 [Malta](http://rocsupport.mfsa.com.mt/pages/SearchCompanyInformation.aspx)
 [Marshall Islands](http://www.register-iri.com/miCorporate/)
-[Myanmar](
+[Myanmar](http://www.dica.gov.mm/en/company-search)
 [Netherlands](http://www.kvk.nl/english/business-register/access-to-the-business-register/)
 [Mexico](http://www.siem.gob.mx/siem/portal/consultas/consulta.asp?q=1)
 [New Zealand](http://www.business.govt.nz/companies/app/ui/pages/companies/search)
