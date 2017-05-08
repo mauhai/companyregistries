@@ -2,7 +2,9 @@
 List of company registries globally
 
 [Abu Dhabi](https://online.abudhabichamber.ae/aspApp2012/online_information/adcd/g_search2.asp?P=0)
+
 [Albania](http://www.qkr.gov.al/nrc/Kerko_Per_Subjekt.aspx)
+
 [Andorra](http://www.ompa.ad/en/databases)
 [Anguilla](http://www.commercialregistry.ai/searches.html)
 [Arab Emirates](https://www.abudhabi.ae/portal/public/en/business/business_support_and_advice/business_support/service98)
