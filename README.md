@@ -15,7 +15,7 @@ List of company registries globally
 * [Bahrain](http://www.big.bh/eInvestor.Web/Web.UI.Pages/Online/Inquiry/Inquiry.aspx?inq=1)
 * [Bangladesh](http://www.roc.gov.bd/)
 * [Barbados](http://www.caipo.gov.bb/site/index.php/search/search-our-database)
-* [Belarus](http://www.mintorg.gov.by/index.php
+* [Belarus](http://www.mintorg.gov.by/index.php)
 * [Belgium](http://www.eurodb.be/scriptsPublic/arianeweb.dll/e/m_mkt_rech)
 * [Benin](http://www.ccibenin.org/index.php/repertoire-entreprises.html)
 * [Bermuda](http://www.roc.gov.bm/)
